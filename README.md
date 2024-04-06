@@ -2,4 +2,4 @@
 
 Description:
 
-This repository contains a number of beginner python projects. 
+This repository contains 5 beginner python projects and 1 text file. 
